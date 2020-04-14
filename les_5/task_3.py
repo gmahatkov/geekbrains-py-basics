@@ -8,7 +8,6 @@
 Петров 13749.32
 """
 from os import path, getcwd
-from functools import reduce
 
 
 def main():
